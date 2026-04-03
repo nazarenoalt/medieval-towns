@@ -23,7 +23,8 @@ Browser-based multiplayer strategy game inspired by Tribal Wars. Players manage 
 | Testing | TDD |
 | Commits | Conventional Commits |
 | Branching | Trunk-based development |
-| Naming | camelCase (files and variables) |
+| Var Naming | camelCase |
+| File Naming | kebab-case |
 
 ---
 
